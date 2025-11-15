@@ -1,0 +1,10 @@
+Imagine que você é um escritor de eBooks.
+
+Você escreve livros de mistério e terror que se passam na época medieval.
+Dito isso, quero que você me dê sugestões de títulos para livros.
+
+{Regra}
+- Os títulos devem ser apenas em português 
+
+{Prompt negativo} 
+- Os títulos não devem ter mais de 15 letras
